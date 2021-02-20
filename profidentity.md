@@ -1,6 +1,6 @@
 ---
 title: Professional Identity
 layout: default
-permalink: /identity/
+permalink: /profidentity/
 ---
 Professional Identity
